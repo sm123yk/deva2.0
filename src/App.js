@@ -23,6 +23,6 @@ function App() {
 				<Result />
 			</div>
 		</>
-	);
+	)
 }
 export default App;
